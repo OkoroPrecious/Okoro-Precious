@@ -1,6 +1,3 @@
-# Okoro-Precious
-My Personal Repository
-
 👨‍💻 Who am I?
 Tools & Technologies:
 React | Redux | NextJs | JavaScript [ES6] | Tailwind | Sass | CSS3 | Bootstrap | HTML5 | Git & GitHub.
