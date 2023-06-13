@@ -2,8 +2,7 @@
 
  ![the-flash-running](https://user-images.githubusercontent.com/84744061/214002252-2a023304-acc6-48cd-8791-9dc3d7a5b7ff.gif)
  
-
-👨‍💻 Who am I?
+ 
 Tools & Technologies:
 React | Redux | NextJs | JavaScript [ES6] | Tailwind | Sass | CSS3 | Bootstrap | HTML5 | Git & GitHub|Bitbucket
 
