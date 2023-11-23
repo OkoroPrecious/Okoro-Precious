@@ -4,7 +4,7 @@
  
  
 Tools & Technologies:
-React | Redux | NextJs | JavaScript [ES6] | Tailwind | Sass | CSS3 | Bootstrap | HTML5 | Git & GitHub|Bitbucket
+React | Redux | NextJs | JavaScript [ES6] |Typescript|  Tailwind | Sass | CSS3 | Bootstrap | HTML5 | Git & GitHub|Bitbucket
 
 My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.
 
