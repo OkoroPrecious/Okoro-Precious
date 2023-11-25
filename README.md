@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=8000&pause=2000&color=FFD700&center=true&vCenter=true&width=435&lines=Hi,+I+Am+Okoro_Precious+Nice+To+Meet+You;Welcome+to+My+Speed+Force,+Cheers)](https://git.io/typing-svg)
 
- ![the-flash-running](https://drive.google.com/file/d/1Ube2yfTmy8PbDuSjJxifcAPsf1Dsiy2v/view?usp=sharing)
+ ![the-flash-running](https://drive.google.com/file/d/1Ube2yfTmy8PbDuSjJxifcAPsf1Dsiy2v/view)
  
  
 Tools & Technologies:
